@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvano Chiaradonna | Academic</title>
+    <link>/authors/silvano-chiaradonna/</link>
+      <atom:link href="/authors/silvano-chiaradonna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silvano Chiaradonna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Silvano Chiaradonna</title>
+      <link>/authors/silvano-chiaradonna/</link>
+    </image>
+    
+    <item>
+      <title>Improving voltage control in MV smart grids</title>
+      <link>/publication/xiao-2016-improving/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/xiao-2016-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of the effectiveness of medium voltage control policies in smart grids</title>
+      <link>/publication/chiaradonna-2016-quantification/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/chiaradonna-2016-quantification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

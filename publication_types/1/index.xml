@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Academic</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>CPpf: a prefetch aware LLC partitioning approach</title>
+      <link>/publication/xiao-2019-cppf/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/xiao-2019-cppf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schedulability analysis of non-preemptive real-time scheduling for multicore processors with shared caches</title>
+      <link>/publication/xiao-2017-schedulability/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/xiao-2017-schedulability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysRT: A modular multiprocessor RTOS simulator for early design space exploration</title>
+      <link>/publication/xiao-2017-sysrt/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/xiao-2017-sysrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive embedded control for a ball and plate system</title>
+      <link>/publication/xiao-2016-adaptive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/xiao-2016-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving voltage control in MV smart grids</title>
+      <link>/publication/xiao-2016-improving/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/xiao-2016-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of the effectiveness of medium voltage control policies in smart grids</title>
+      <link>/publication/chiaradonna-2016-quantification/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/chiaradonna-2016-quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded Software and Systems</title>
+      <link>/talk/ta3/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate>
+      <guid>/talk/ta3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating Systems</title>
+      <link>/talk/ta2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/ta2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
