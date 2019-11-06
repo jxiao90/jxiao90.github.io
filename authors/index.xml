@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jxiao90.github.io/authors/</link>
+      <atom:link href="https://jxiao90.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jxiao90.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://jxiao90.github.io/authors/</link>
     </image>
     
     <item>
       <title>**Jun Xiao**</title>
-      <link>/authors/jun-xiao/</link>
+      <link>https://jxiao90.github.io/authors/jun-xiao/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jun-xiao/</guid>
+      <guid>https://jxiao90.github.io/authors/jun-xiao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andy D Pimentel</title>
-      <link>/authors/andy-d-pimentel/</link>
+      <link>https://jxiao90.github.io/authors/andy-d-pimentel/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/andy-d-pimentel/</guid>
+      <guid>https://jxiao90.github.io/authors/andy-d-pimentel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xu Liu</title>
-      <link>/authors/xu-liu/</link>
+      <link>https://jxiao90.github.io/authors/xu-liu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/xu-liu/</guid>
+      <guid>https://jxiao90.github.io/authors/xu-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andy Pimentel</title>
-      <link>/authors/andy-pimentel/</link>
+      <link>https://jxiao90.github.io/authors/andy-pimentel/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/andy-pimentel/</guid>
+      <guid>https://jxiao90.github.io/authors/andy-pimentel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giuseppe Lipari</title>
-      <link>/authors/giuseppe-lipari/</link>
+      <link>https://jxiao90.github.io/authors/giuseppe-lipari/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/giuseppe-lipari/</guid>
+      <guid>https://jxiao90.github.io/authors/giuseppe-lipari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sebastian Altmeyer</title>
-      <link>/authors/sebastian-altmeyer/</link>
+      <link>https://jxiao90.github.io/authors/sebastian-altmeyer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/sebastian-altmeyer/</guid>
+      <guid>https://jxiao90.github.io/authors/sebastian-altmeyer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andy Pimente</title>
-      <link>/authors/andy-pimente/</link>
+      <link>https://jxiao90.github.io/authors/andy-pimente/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/andy-pimente/</guid>
+      <guid>https://jxiao90.github.io/authors/andy-pimente/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Felicita Di Giandomenico</title>
-      <link>/authors/felicita-di-giandomenico/</link>
+      <link>https://jxiao90.github.io/authors/felicita-di-giandomenico/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/felicita-di-giandomenico/</guid>
+      <guid>https://jxiao90.github.io/authors/felicita-di-giandomenico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giorgio Buttazzo</title>
-      <link>/authors/giorgio-buttazzo/</link>
+      <link>https://jxiao90.github.io/authors/giorgio-buttazzo/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/giorgio-buttazzo/</guid>
+      <guid>https://jxiao90.github.io/authors/giorgio-buttazzo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silvano Chiaradonna</title>
-      <link>/authors/silvano-chiaradonna/</link>
+      <link>https://jxiao90.github.io/authors/silvano-chiaradonna/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/silvano-chiaradonna/</guid>
+      <guid>https://jxiao90.github.io/authors/silvano-chiaradonna/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://jxiao90.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://jxiao90.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am Jun Xiao. I am now a postdoc in the Parallel Computing Systems (PCS) group within the Systems and Networking Lab at the Informatics Institute of University of Amsterdam. I received my Ph.D. from University of Amsterdam in October, 2019.  Before coming to Amsterdam, I completed my master degree from University of Trento and Scuola Superiore Sant&amp;rsquo;Anna, Italy and bachelor degree from Nanchang University, China.&lt;/p&gt;
 
 &lt;p&gt;My research interests include Computer Architecture with a focus on cache performance analysis, High Performance Computing with a focus on run-time resource management and Real Time Systems with a focus on schedulability analysis for multicore systems.&lt;/p&gt;

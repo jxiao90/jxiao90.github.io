@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andy D Pimentel | Academic</title>
-    <link>/authors/andy-d-pimentel/</link>
-      <atom:link href="/authors/andy-d-pimentel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jxiao90.github.io/authors/andy-d-pimentel/</link>
+      <atom:link href="https://jxiao90.github.io/authors/andy-d-pimentel/index.xml" rel="self" type="application/rss+xml" />
     <description>Andy D Pimentel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://jxiao90.github.io/img/icon-192.png</url>
       <title>Andy D Pimentel</title>
-      <link>/authors/andy-d-pimentel/</link>
+      <link>https://jxiao90.github.io/authors/andy-d-pimentel/</link>
     </image>
     
     <item>
       <title>CPpf: a prefetch aware LLC partitioning approach</title>
-      <link>/publication/xiao-2019-cppf/</link>
+      <link>https://jxiao90.github.io/publication/xiao-2019-cppf/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/xiao-2019-cppf/</guid>
+      <guid>https://jxiao90.github.io/publication/xiao-2019-cppf/</guid>
       <description></description>
     </item>
     
